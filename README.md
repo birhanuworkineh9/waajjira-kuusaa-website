@@ -1,2 +1,2 @@
 # waajjira-kuusaa-website
-waajjuu daalotaa kebele
+waajjuu daalotaa kebele 
